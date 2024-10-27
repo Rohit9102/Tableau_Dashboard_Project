@@ -1,1 +1,2 @@
 # Tableau_Dashboard_Project
+This project focuses on analyzing Electric Vehicle (EV) adoption trends using a dataset with multiple parameters like EV model sales, state-wise distribution, and annual trends. By leveraging data visualization tools, particularly Tableau, this project aims to uncover insights and patterns that can aid in understanding the growth of the EV market and inform stakeholders about potential areas for further investment or focus.
